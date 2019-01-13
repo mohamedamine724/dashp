@@ -31,8 +31,6 @@ dcc.Graph(
 
                    'y': consum , #Array de consum (extract from CSV).
 
-                   'z': [4,2,5,7,2,6,9], 
-
                    'type': 'bar', # Tipus de DASH.
 
                    'name': 'SF'}
