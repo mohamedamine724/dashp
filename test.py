@@ -22,7 +22,7 @@ app.layout = html.Div(children=[
     html.H1(children='Consum Elèctric'),
     html.Div(children='''Dashboard: Per controlar el consum diari.'''),
 
-#En aquesta part generem el Dash.            
+#En aquesta part generem el Dash..            
 dcc.Graph(
         id='example-graph',
         figure={
