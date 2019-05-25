@@ -77,3 +77,8 @@ Resultat:
 ![GitHub Logo](/img/10.PNG)
 
 
+
+<br/>
+### Inserció de dades:
+
+[Demo](https://youtu.be/A-BjPFdaQC4)
