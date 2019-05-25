@@ -7,6 +7,7 @@ Per poder instal·lar aquestes hem d'executar la següent comanda:
 <pre>pip install -r requirements.txt</pre>
 
 
+
 ### Com funciona DashP
 
 Primerament hem de fer login amb un usuari / password registrat en la base de dades.
@@ -16,6 +17,8 @@ Primerament hem de fer login amb un usuari / password registrat en la base de da
 Una vegada hem fet login de forma correcte ja podem selecionar una 4 opcions que tenim disponibles.
 
 ![GitHub Logo](/img/2.PNG)
+
+<br/>
 
 #### Consum d'un dia (mostres cada 5 minuts):
 
@@ -29,6 +32,8 @@ Resultat:
 
 ![GitHub Logo](/img/5.PNG)
 
+<br/>
+
 
 #### Comparativa entre 2 dies:
 
@@ -39,6 +44,9 @@ Els passos són iguals que els anteriors però aqui hem de selecionar 2 dates.
 Resultat:
 
 ![GitHub Logo](/img/7.PNG)
+
+
+<br/>
 
 
 #### Càlcul del kWh (agrupat per hores):
@@ -52,6 +60,9 @@ Aquest formulari agafa les tarifes de forma automàtica d'una web, que fa un lli
 Resultat:
 
 ![GitHub Logo](/img/9.PNG)
+
+
+<br/>
 
 
 #### Consum agrupat per hores:
