@@ -41,9 +41,27 @@ Resultat:
 ![GitHub Logo](/img/7.PNG)
 
 
+#### Càlcul del kWh (agrupat per hores):
+
+Aquest formulari agafa les tarifes de forma automàtica d'una web, que fa un llistat les totes les tarifes elèctriques i ho calcula per el consum agrupat per hores.
 
 
+![GitHub Logo](/img/8.PNG)
 
 
+Resultat:
 
+![GitHub Logo](/img/9.PNG)
+
+
+#### Consum agrupat per hores:
+
+Aquest Dash el que fa és crear del X el consum agrupat per hores.
+
+![GitHub Logo](/img/11.PNG)
+
+
+Resultat:
+
+![GitHub Logo](/img/10.PNG)
 
