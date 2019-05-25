@@ -79,6 +79,7 @@ Resultat:
 
 
 <br/>
+
 ### Inserció de dades:
 
 [Demo](https://youtu.be/A-BjPFdaQC4)
