@@ -6,9 +6,9 @@ Per poder instal·lar aquestes hem d'executar la següent comanda:
 
 <pre>pip install -r requirements.txt</pre>
 
+<br/>
 
-
-### Com funciona DashP
+### Com funciona DashP ?
 
 Primerament hem de fer login amb un usuari / password registrat en la base de dades.
 
@@ -75,4 +75,5 @@ Aquest Dash el que fa és crear del X el consum agrupat per hores.
 Resultat:
 
 ![GitHub Logo](/img/10.PNG)
+
 
