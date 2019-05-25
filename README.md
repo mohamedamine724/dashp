@@ -8,7 +8,7 @@ Per poder instal·lar aquestes hem d'executar la següent comanda:
 
 <br/>
 
-### Com funciona DashP ?
+### Com funciona DashP ? [Video](https://youtu.be/RqS4UuWaHro)
 
 Primerament hem de fer login amb un usuari / password registrat en la base de dades.
 
