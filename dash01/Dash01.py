@@ -55,13 +55,17 @@ trace1 = go.Scatter(
 
 
 
+
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 app.layout = html.Div(children=[
-    html.H1(children='Consum Elèctric'),
-
+    html.H3(children="Consum elèctric d'un dia (mostres cada 5 minuts)",
+            style={
+            'textAlign': 'center',
+            }
+            ),
 
 
 dcc.Graph(
@@ -69,8 +73,8 @@ dcc.Graph(
         figure={
         'data': [trace1],
         'layout': {
-                   'title': 'Consum diari ('+start+')'
-                  }
+                   'title': 'Consum diari ('+start+')',
+                  },
                 }
             )
         ])
@@ -82,26 +86,4 @@ if __name__ == '__main__':
 
 
 
-
-##import plotly.plotly as py
-##import plotly.graph_objs as go
-##
-##trace1 = go.Bar(
-##    x=['giraffes', 'orangutans', 'monkeys'],
-##    y=[20, 14, 23],
-##    name='SF Zoo'
-##)
-##trace2 = go.Bar(
-##    x=['giraffes', 'orangutans', 'monkeys'],
-##    y=[12, 18, 29],
-##    name='LA Zoo'
-##)
-##
-##data = [trace1, trace2]
-##layout = go.Layout(
-##    barmode='group'
-##)
-##
-##fig = go.Figure(data=data, layoutx=layout)
-##py.iplot(fig, filename='grouped-bar')
 
