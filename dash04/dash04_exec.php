@@ -13,7 +13,7 @@
 
 <div class="container">
   <h2>S'ha produït un error inesperat...</h2>
-  <a class="btn btn-primary" href="../index.php" role="button">Tornar al Inici<a>
+  <a class="btn btn-primary" href="../login.php" role="button">Tornar al Inici<a>
   
   <!--- CODI PHP -->
   <?php
